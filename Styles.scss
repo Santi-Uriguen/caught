@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+body {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img {
+      height: 80%;
+    }
+  }
+}
